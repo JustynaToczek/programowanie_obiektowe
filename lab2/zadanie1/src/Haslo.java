@@ -21,7 +21,7 @@ public class Haslo extends JFrame {
         super("Swing JPasswordField Demo Program");
         this.setContentPane(panel1);
         this.setSize(350,200);
-        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         OKbutton.addActionListener(new ActionListener() {
             @Override
