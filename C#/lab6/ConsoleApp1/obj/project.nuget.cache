@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/K0JgR84l3rRDG84nm1Tkpo8366l/ohvNVICt0aPicumfqn9bdUf7l21KtPf2yMa7c7lHQw/L60isWudpN8IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\OneDrive\\Pulpit\\PO_domowe\\C#\\lab6\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
